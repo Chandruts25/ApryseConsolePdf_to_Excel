@@ -5,4 +5,6 @@
 
  Download this and give the path to this
 
+ https://docs.apryse.com/downloads/StructuredOutputWindows.zip
+
  PDFNet.AddResourceSearchPath(@"C:\Users\hp\Desktop\StructuredOutputWindows\Lib\");
